@@ -145,4 +145,3 @@ Salário Final: 3500.0
 * Sobrescrita do método `calcularSalario()`
 
 ---
-
